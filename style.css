@@ -128,3 +128,24 @@ h1 {
     height: 224px;
   } 
 }
+
+@media only screen and (max-width: 450px) {
+  .menu{
+    height: 224px;
+  } 
+
+}@media only screen and (max-width: 450px) {
+  .menu li{
+    height: 224px;
+  } 
+
+}@media only screen and (max-width: 450px) {
+  .menu a:hover{
+    height: 224px;
+  } 
+
+}@media only screen and (max-width: 450px) {
+  .menu a{
+    height: 224px;
+  } 
+}
