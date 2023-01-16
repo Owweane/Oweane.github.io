@@ -111,37 +111,37 @@ h1 {
 
 
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 460px) {
   .imgnew{
     height: 200px;
   } 
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 460px) {
   .imgps{
     height: 600px;
   } 
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 460px) {
   .imgpsps{
     height: 224px;
   } 
 }
 
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 460px) {
   .menu{
     height: 50px;
   } 
 
-}@media only screen and (max-width: 450px) {
+}@media only screen and (max-width: 460px) {
   .menu li{
     height: 20px;
   } 
 
 
 
-}@media only screen and (max-width: 450px) {
+}@media only screen and (max-width: 460px) {
   .menu a{
     height: 20px;
   } 
